@@ -1,0 +1,4 @@
+.video__iframe:nth-of-type(2n) {
+  margin-left: 20px;
+}
+
