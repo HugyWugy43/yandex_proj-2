@@ -5,5 +5,5 @@
   flex-direction: row;
   flex-wrap: wrap;
   margin: 0 auto 100px;
-  z-index: 1;
+  z-index: 2;
 }

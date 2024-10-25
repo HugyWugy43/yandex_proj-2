@@ -5,4 +5,5 @@
   width: 60%;
   margin: 100px auto 20px;
   text-align: center;
+  z-index: 2;
 }
